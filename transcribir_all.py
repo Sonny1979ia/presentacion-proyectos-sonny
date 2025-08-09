@@ -4,6 +4,7 @@
    ✅ Busca todos los archivos MP3 y WAV en la carpeta 'audios'
    ✅ Transcribe cada uno con Whisper
    ✅ Guarda la transcripción en la carpeta 'textos' con el mismo nombre del audio + .txt
+   este es una modificacion el dia 8 de agosto de 2025 a las  7:45 pm
 """
 
 import whisper
